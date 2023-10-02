@@ -1,7 +1,7 @@
 
 # Face Tracker
 
-The Face Tracker project leverages the power of deep learning, utilizing the VGG16 architecture which was fine-tuned for my custom dataset, 
+The Face Tracker project leverages the power of deep learning, utilizing the VGG16 architecture which was fine-tuned for a custom dataset, 
 
 
 ## Preview
