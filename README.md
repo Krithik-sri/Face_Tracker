@@ -18,6 +18,11 @@ To split the images into train test and validation split run `split_data.py`
 
 To train the model run each cell in order in `face_detection.ipynb`
 
+Ps you onlly have to run the augment data cell once and comment it afterwards
+
+## Note
+Delete the .json file in the data and aug_data before doing any of the above steps
+
 ## Features
 ### Deep Learning Model
 - The project employs the VGG16 deep convolutional neural network (CNN) architecture. Fine-tuned layers of VGG16 are used for face detection in tensorflow.
