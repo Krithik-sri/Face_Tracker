@@ -4,6 +4,9 @@
 The Face Tracker project leverages the power of deep learning, utilizing the VGG16 architecture which was fine-tuned for my custom dataset, 
 
 
+## Preview
+https://github.com/Krithik-sri/Face_Tracker/assets/123297016/92c165e9-8690-46d1-ba14-30016a83b189
+
 ## Run
 
 To take the images for the dataset run `image_collection.py`
@@ -36,7 +39,4 @@ labelme==5.3.1
 opencv-python==4.5.4.60
 python==3.9
 ```
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
