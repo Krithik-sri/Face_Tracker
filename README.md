@@ -18,7 +18,7 @@ To split the images into train test and validation split run `split_data.py`
 
 To train the model run each cell in order in `face_detection.ipynb`
 
-Ps you onlly have to run the augment data cell once and comment it afterwards
+Ps you only have to run the augment data cell once and comment it afterwards
 
 ## Note
 Delete the .json file in the data and aug_data before doing any of the above steps
