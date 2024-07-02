@@ -25,7 +25,7 @@ Delete the .json file in the data and aug_data before doing any of the above ste
 
 ## Features
 ### Deep Learning Model
-- The project employs the SSD architecture. Fine-tuned layers of VGG16 are used for face detection in tensorflow.
+- The project employs the SSD architecture which is used for face detection in tensorflow.
 - OpenCV is used to make real-time face detection
 
 ### Custom Dataset
